@@ -1,2 +1,1 @@
-# Henry-PrepCourse
-Repositorio de Prueba M°2
+Este proyecto es una prueba sobre como crear un repositorio
